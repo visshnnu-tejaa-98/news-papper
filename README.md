@@ -2,4 +2,4 @@
 
 see preview here
 
-	https://news-paper-bootstrap4-5.netlify.app/
+https://news-paper-bootstrap4-5.netlify.app/
